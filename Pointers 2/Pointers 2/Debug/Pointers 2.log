@@ -1,4 +1,2 @@
 ﻿  Pointers 2.cpp
-c:\users\mypc\documents\visual studio 2015\projects\pointers 2\pointers 2\pointers 2.cpp(23): warning C4715: 'add': not all control paths return a value
-  Pointers 2.vcxproj -> c:\users\mypc\documents\visual studio 2015\Projects\Pointers 2\Debug\Pointers 2.exe
-  Pointers 2.vcxproj -> c:\users\mypc\documents\visual studio 2015\Projects\Pointers 2\Debug\Pointers 2.pdb (Full PDB)
+c:\users\mypc\documents\github\review\pointers 2\pointers 2\pointers 2.cpp(24): warning C4715: 'add': not all control paths return a value
