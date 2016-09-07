@@ -1,0 +1,17 @@
+﻿Build started 10/15/2014 5:02:53 AM.
+     1>Project "c:\Users\Leon\documents\visual studio 2013\Projects\C++ Linked Lists\C++ Linked Lists\C++ Linked Lists.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\C++ Linked Lists.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt List.cpp
+         List.cpp
+     1>c:\users\leon\documents\visual studio 2013\projects\c++ linked lists\c++ linked lists\list.cpp(1): warning C4627: '#include <cstdlib>': skipped when looking for precompiled header use
+                 Add directive to 'stdafx.h' or rebuild precompiled header
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\leon\documents\visual studio 2013\Projects\C++ Linked Lists\Debug\C++ Linked Lists.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\leon\documents\visual studio 2013\Projects\C++ Linked Lists\Debug\C++ Linked Lists.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\leon\documents\visual studio 2013\Projects\C++ Linked Lists\Debug\C++ Linked Lists.lib" /MACHINE:X86 "Debug\C++ Linked Lists.obj"
+         Debug\List.obj
+         Debug\stdafx.obj
+         C++ Linked Lists.vcxproj -> c:\users\leon\documents\visual studio 2013\Projects\C++ Linked Lists\Debug\C++ Linked Lists.exe
+     1>Done Building Project "c:\Users\Leon\documents\visual studio 2013\Projects\C++ Linked Lists\C++ Linked Lists\C++ Linked Lists.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.66
