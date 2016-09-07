@@ -6,6 +6,7 @@
 
 using namespace std;
 
+// here comes the func, this is sweet
 int add(int b)
 {
 	cout << endl << b;
