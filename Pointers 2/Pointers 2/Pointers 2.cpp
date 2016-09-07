@@ -6,7 +6,7 @@
 
 using namespace std;
 
-// here comes the func, this is sweet
+// here comes the func
 void add(int b)
 {
 	cout << endl << b; // print the value of b at the beginning of every progression through the function
