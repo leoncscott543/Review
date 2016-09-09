@@ -1,5 +1,6 @@
 // String Bubble Sort.cpp : Defines the entry point for the console application.
 // Sorting the Alphabet
+// Leon C Scott 
 
 #include "stdafx.h"
 #include <iostream>
